@@ -1,0 +1,4 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.jsonl filter=lfs diff=lfs merge=lfs -text
+prompts.jsonl.zip filter=lfs diff=lfs merge=lfs -text
+processed_data/exp1.zip filter=lfs diff=lfs merge=lfs -text
